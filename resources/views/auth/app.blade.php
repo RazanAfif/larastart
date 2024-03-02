@@ -47,13 +47,13 @@
   <script src="../assets/js/stisla.js"></script>
 
   <!-- JS Libraies -->
-{% block plugins_js %}{% endblock %}
+
 
   <!-- Template JS File -->
   <script src="../assets/js/scripts.js"></script>
   <script src="../assets/js/custom.js"></script>
 
   <!-- Page Specific JS File -->
-{% block page_js %}{% endblock %}
+
 </body>
 </html>
